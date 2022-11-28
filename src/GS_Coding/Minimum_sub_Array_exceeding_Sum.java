@@ -33,7 +33,7 @@ public class Minimum_sub_Array_exceeding_Sum {
 
 	public static void main(String[] args) {
 
-		 int [] arr = {1,2,3,4,5,6,7,8};
+		 int [] arr = {1,2,3,4,5,6,7,8,51};
 //		int[] arr = { 1, 4, 45, 6, 0, 19 };
 		int number = 51;
 		int lengthOfSubArray = minSubArray(arr, number);

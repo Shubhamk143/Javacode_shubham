@@ -57,8 +57,6 @@ public class Largest_Palindrome {
 		}
 		
 
-		// This code is contributed by shikhasingrajput
-
 
 	
 

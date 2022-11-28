@@ -19,7 +19,7 @@ public class Power_of_10_or_Not {
 			}
 		public static void main(String[] args) {
 
-			boolean x = checkNumberPowerOfTen(1000);
+			boolean x = checkNumberPowerOfTen(9);
 			System.out.println(x);
 	}
 
