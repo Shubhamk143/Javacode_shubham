@@ -27,7 +27,7 @@ public class PowerOfAnotherNumber {
 			}
 		
 
-		// This code is contributed by Jyotsna.
+		//Time = O(Logxy)
 
 	
 

@@ -27,7 +27,7 @@ public class Find_Sqaure_Root {
 	while((t-sqrtroot)!= 0);  
 	return sqrtroot;  
 	}  
-	 
+	 //Time complexity -O(1)
 	}
 //
 //public class SquareRoot {

@@ -45,7 +45,7 @@ public class Snow_Pack_Program {
 
 			  }
 
-		
+		// O(N^2)
 	}
 
 

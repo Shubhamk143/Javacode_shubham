@@ -26,10 +26,7 @@ public class StairCase {
 			    }
 			    return runFibbonacci(number-1) + runFibbonacci(number-2) + runFibbonacci(number-3);
 			  }
-
-
-		
-
+	// O (1)
 	}
 
 

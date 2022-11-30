@@ -22,5 +22,5 @@ public class Power_of_10_or_Not {
 			boolean x = checkNumberPowerOfTen(9);
 			System.out.println(x);
 	}
-
+//Time - O(1)
 }

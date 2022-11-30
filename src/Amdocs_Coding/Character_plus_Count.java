@@ -42,7 +42,7 @@ public class Character_plus_Count {
 	    }else {
 	      System.out.println("Failed");
 	    }
-
+              // time complexity = O(N^2)
 	  }
 	}
 

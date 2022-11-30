@@ -20,7 +20,8 @@ public class Amstrong_Number {
 		            System.out.println(number + " is not an Armstrong number.");
 		    }
 		
-		}
+		} 
+// ablove program Time Complexity : O(1)
 				
 //		for Nth numberr amstrong Number
 

@@ -57,8 +57,7 @@ public class Reserved_LinkedList {
 				System.out.println("Reversed linked list ");
 				list.printList(head);
 			}
-		
-
+// 		Time - O(N)
 
 	}
 

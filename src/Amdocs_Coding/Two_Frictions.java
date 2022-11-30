@@ -37,5 +37,5 @@ public class Two_Frictions {
 		     // return false;
 		    }
 		  }
-
+// O (1)
 	}

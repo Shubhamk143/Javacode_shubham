@@ -19,3 +19,4 @@ public class Fibonaci_Series {
 		        System.out.println("F(n) = " + fib(n));
 		    }
 }
+//Time complexiety = O(1)
