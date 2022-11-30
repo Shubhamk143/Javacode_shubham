@@ -72,3 +72,4 @@ public class Best_Avearge_Grade {
   grades.put(name, marks);*/
 
 }
+//Time complexity - O(N)
