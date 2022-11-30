@@ -25,11 +25,7 @@ public class Count_Pairs_integer {
 
 				System.out.printf("Count of pairs is %d", count);
 			}
-		
-
-		// This code is contributed by Aditya Kumar (adityakumar129)
-
-
+                            //Time complexity = O(N^2)
 	}
 
 
