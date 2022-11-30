@@ -122,3 +122,4 @@ public class BinarySearchTree {
 	
 
 }
+//Time complexity = O(1)
