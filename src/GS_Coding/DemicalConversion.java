@@ -50,4 +50,4 @@ public class DemicalConversion {
 			} else {
 				System.out.println("Failed");}}}
 			
-
+//Time complexity -O(1)
