@@ -68,5 +68,5 @@ public class MagicPotion {
 
 	}
 	
-
+//Time - O(N)
 
