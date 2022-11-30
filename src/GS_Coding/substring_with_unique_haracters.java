@@ -34,7 +34,7 @@ public class substring_with_unique_haracters {
 		System.out.println(ae);
 
 
-
+//O(N^2)
 	}
 
 }
