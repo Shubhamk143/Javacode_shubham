@@ -23,3 +23,4 @@ public class Exponetial_Power_A_B {
 	}
 
 
+//Time complexity - O(N)
