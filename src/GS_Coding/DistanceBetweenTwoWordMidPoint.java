@@ -61,3 +61,4 @@ public class DistanceBetweenTwoWordMidPoint {
 		  }
 		}
 
+//time complexity - O(1)
